@@ -1,0 +1,1 @@
+--Q: How many orders are still pending per customer?

@@ -1,0 +1,3 @@
+--Q: How many orders are still pending per customer?
+
+--A: Let's ask SQL Server and find out...
