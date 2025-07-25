@@ -1,0 +1,3 @@
+--Q: What is the total number of students?
+
+--A: Let's ask SQL Server and find out...
